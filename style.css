@@ -239,7 +239,7 @@ ul {
     line-height: 1.8;
     color: var(--text-medium);
     margin-bottom: 40px;
-    text-align: left;
+    text-align: justify;
 }
 
 .landing-buttons {
@@ -447,6 +447,7 @@ ul {
     line-height: 1.9;
     color: var(--text-medium);
     margin-bottom: 40px;
+    text-align: justify;
 }
 
 .mission-vision-cards {
